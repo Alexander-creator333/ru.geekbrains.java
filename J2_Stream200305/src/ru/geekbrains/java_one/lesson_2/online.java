@@ -118,7 +118,7 @@ public class online {
         //System.out.println(Arrays.toString(arr));
     }
 
-// main - main2-3
+// main - main2-3-4
     public static void main(String[] args) {
         int[] first_arr = {1, 1, 0, 0, 1, 0, 1, 1, 0, 0};
         first(first_arr);
